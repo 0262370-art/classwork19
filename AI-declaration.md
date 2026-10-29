@@ -67,8 +67,6 @@ The following prompts represent examples of the assistance used during developme
 
 > Help me review and troubleshoot my Unity C# scripts for a VR object-matching interaction. The scripts should support shape, color, size, rotation, reset, and answer confirmation.
 
-*Note: These prompts are representative examples of the AI assistance used. They should be adjusted if the actual prompts used during development were different.*
-
 ## 3. Implementation Explanation
 
 The project was developed in Unity using C# to create a virtual reality interaction in which the user modifies an object until it matches a randomly generated target.
