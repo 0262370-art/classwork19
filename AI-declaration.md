@@ -2,8 +2,7 @@
 
 ## Project Information
 
-**Project:** Match the Object  
-**Course:** Virtual Reality  
+**Project:** Match the Object: classwork 19
 **AI Usage Level:** Level 2 — Assisted Development  
 **Engine:** Unity  
 **Platform:** Meta Quest 2 / Meta Quest 3
